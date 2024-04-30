@@ -1,3 +1,6 @@
+/*Write a program using Arduino to control LED (One or more ON/OFF). Or Blinking*/
+
+
 //Light blinking
 // Define LED pin
 #define LED_PIN 2

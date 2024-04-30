@@ -1,3 +1,6 @@
+/*Write a program so it displays the temperature in Fahrenheit as well as the maximum and minimum temperatures it has seen*/
+
+
 #include <DHT.h> // Include DHT library
 
 #define DHTPIN 4 // Define DHT data pin
